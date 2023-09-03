@@ -32,6 +32,13 @@
 ●	All the ﬁles are concatenated based on SEQN ID.
 ●	Additional features which is need to work for predicting cardiovascular disease are collected through examination and Questionaire data
 
+## Inferential Statistics
+●	Glucose is one of the important feature in Biological age Contribution
+●	Urea and Cholesterol are considered as the second and third key features for aging.
+
+![14](https://github.com/Rahulreddy1020/Aging-Clock/assets/83365184/b80bba38-9d4f-42a9-822a-e17682e93f79)
+
+
 
 
 
